@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Seasons</string>
+    <string name="spring_select">Spring</string>
+    <string name="summer_select">Summer</string>
+    <string name="fall_select">Fall</string>
+    <string name="winter_select">Winter</string>
+    <string name="spring_tree_content">Spring Tree</string>
+    <string name="summer_sun_content">Summer Sun</string>
+    <string name="fall_leaf_content">Fall Leaf</string>
+    <string name="winter_snowflake_content">Winter Snowflake</string>
+    <string name="spring_info">Spring:\n- First Day: March 20\n- Last Day: June 20\n- Avg Rainy Days: 15\n- Avg Sunny Days: 75\n- Avg Temp: 55°F</string>
+    <string name="summer_info">Summer:\n- First Day: June 21\n- Last Day: September 22\n- Avg Rainy Days: 10\n- Avg Sunny Days: 80\n- Avg Temp: 75°F</string>
+    <string name="fall_info">Fall:\n- First Day: September 23\n- Last Day: December 20\n- Avg Rainy Days: 20\n- Avg Sunny Days: 50\n- Avg Temp: 50°F</string>
+    <string name="winter_info">Winter:\n- First Day: December 21\n- Last Day: March 19\n- Avg Rainy Days: 25\n- Avg Sunny Days: 40\n- Avg Temp: 40°F</string>
+    <string name="spring_additional_info">Click the cherry blossom to go to the next season.</string>
+    <string name="summer_additional_info">Click the cherry blossom to go to the next season.</string>
+    <string name="fall_additional_info">Click the cherry blossom to go to the next season.</string>
+    <string name="winter_additional_info">You got to click more than once if you want to get through winter LOL! Click the cherry blossom to go to the next season.</string>
+</resources>

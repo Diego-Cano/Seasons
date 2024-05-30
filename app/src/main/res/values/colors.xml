@@ -1,0 +1,7 @@
+<resources>
+    <color name="spring_background">#E0F7FA</color>
+    <color name="summer_background">#FFF9C4</color>
+    <color name="fall_background">#FFCCBC</color>
+    <color name="winter_background">#ECEFF1</color>
+    <color name="default_background">#FFFFFF</color>
+</resources>
